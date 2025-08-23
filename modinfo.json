@@ -1,0 +1,19 @@
+{
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "Arctic Traders",
+  "Version": "",
+  "NetworkVersion": null,
+  "Description": "",
+  "Website": "",
+  "CoreMod": false,
+  "ModID": "arctictraders",
+  "Authors": [
+    "Diff"
+  ],
+  "Contributors": [],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {}
+}
