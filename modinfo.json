@@ -1,18 +1,13 @@
 {
   "Type": "content",
-  "TextureSize": 32,
-  "Name": "Arctic Traders",
-  "Version": "",
-  "NetworkVersion": null,
-  "Description": "",
-  "Website": "",
-  "ModID": "arctictraders",
+  "Name": "Snowball Traders",
+  "Version": "1.0.1",
+  "Description": "Let traders spawn even in cold environments.",
+  "Website": "https://github.com/different55/Snowball-Traders",
+  "ModID": "snowballtraders",
   "Authors": [
     "Diff"
   ],
   "Contributors": [],
-  "Side": "Universal",
-  "RequiredOnClient": true,
-  "RequiredOnServer": true,
-  "Dependencies": {}
+  "Side": "Server",
 }
